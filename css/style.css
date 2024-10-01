@@ -1,0 +1,21 @@
+header {
+    background-color: blue !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 3% !important;
+}
+
+footer {
+    background-color: blue !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 2% !important;
+}
+
+.img-react {
+    width: 80% !important;
+}
+
+.div-item {
+    text-align: center !important;
+}
